@@ -126,8 +126,6 @@
       .logo { font-size: 20px; }
       .comment-form { flex-direction: column; }
       button { width: 100%; }
-    }
-  </style>
 </head><script type="module">
   // Import the functions you need from the SDKs you need
   import { initializeApp } from "https://www.gstatic.com/firebasejs/11.7.1/firebase-app.js";
