@@ -160,7 +160,7 @@
   
   <div id="mainContent" style="display: none;">
     <header>
-      <div class="logo">Mini Facebook</div>
+      <div class="logo">Muslim-Face</div>
       <div id="welcomeUser">Welcome</div>
     </header>
 
